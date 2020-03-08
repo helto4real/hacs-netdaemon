@@ -1,0 +1,2 @@
+hacs_update_notification:
+    class: HacsUpdateNotification

@@ -1,0 +1,12 @@
+{
+    "name": "HacsUpdateNotification Dev",
+    "dockerFile": "Dockerfile",
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+      "ms-dotnettools.csharp",
+      "aaron-bond.better-comments",
+      "k--kato.docomment"
+    ]
+  }
